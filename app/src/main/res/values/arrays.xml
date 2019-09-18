@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_types">
+        <item>atm</item>
+        <item>accounting</item>
+        <item>airport</item>
+        <item>jewelry_store</item>
+        <item>cafe</item>
+        <item>bar</item>
+        <item>library</item>
+        <item>laundry</item>
+        <item>mosque</item>
+        <item>museum</item>
+        <item>church</item>
+        <item>police</item>
+        <item>spa</item>
+        <item>doctor</item>
+        <item>school</item>
+        <item>stadium</item>
+        <item>store</item>
+        <item>hospital</item>
+        <item>gym</item>
+        <item>post_office</item>
+    </string-array>
+</resources>
